@@ -1,3 +1,10 @@
+<h1>Tweeter Tweets</h1>
+<ul>
+  <li>Tweeter Tweets is a React App which is having tweeter UI.</li>
+  <li>The use can tweet and it can be stored into local storage of browesr.</li>
+  <li>I have Used ReactJS and TailwindCSS and React-icons.</li>
+</ul>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
